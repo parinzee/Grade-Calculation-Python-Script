@@ -31,5 +31,6 @@ The python script can be modified as you wish to see how it works
 
 ## Downloads
 - Version 0.1 Located here:
+    https://github.com/Parinz/Grade-Calculation-Python-Script/releases/tag/0.1
 ## Known Issues
 None, if you want to report one go here https://github.com/Parinz/Grade-Calculation-Python-Script/issues
