@@ -2,7 +2,7 @@
 -A simple python grade calculation script.
 The python script can be modified as you wish to see how it works
 
-### Warnings:
+## Warnings:
 
 **APs ARE NOT YET SUPPORTED**
 
@@ -13,7 +13,7 @@ The python script can be modified as you wish to see how it works
 **Currently uses a terminal as GUI interface, with Version 1.0 I will add a User Interface.**
 
 
-### Features
+## Features
 
 - Accurate Grade Calculations
 
@@ -23,13 +23,13 @@ The python script can be modified as you wish to see how it works
 
 - Free!
 
-### Changelog
+## Changelog
 
 **Version 0.1**
 
 -Intial release
 
 ## Downloads
-
-#### Known Issues
+- Version 0.1 Located here:
+## Known Issues
 None, if you want to report one go here https://github.com/Parinz/Grade-Calculation-Python-Script/issues
