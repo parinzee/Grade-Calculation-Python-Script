@@ -4,7 +4,7 @@ The python script can be modified as you wish to see how it works
 
 ## Warnings:
 
-**APs ARE NOT YET SUPPORTED**
+**AP and Honors ARE NOT YET SUPPORTED**
 
 
 **MacOS support coming in Version 0.2**
