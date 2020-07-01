@@ -30,8 +30,8 @@ The python script can be modified as you wish to see how it works
 -Intial release
 
 ## Downloads
-- Version 0.1 Located here:
-    https://github.com/Parinz/Grade-Calculation-Python-Script/releases/tag/0.1
+- Located here:
+    https://github.com/Parinz/Grade-Calculation-Python-Script/releases/
     
 - Online version Located here:
     https://grade-cal.000webhostapp.com/
