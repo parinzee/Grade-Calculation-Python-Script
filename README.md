@@ -30,3 +30,6 @@ The python script can be modified as you wish to see how it works
 -Intial release
 
 ## Downloads
+
+#### Known Issues
+None, if you want to report one go here https://github.com/Parinz/Grade-Calculation-Python-Script/issues
