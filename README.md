@@ -35,4 +35,3 @@ The python script can be modified as you wish to see how it works
 ## Known Issues
 None, if you want to report one go here https://github.com/Parinz/Grade-Calculation-Python-Script/issues
 
-<iframe src="https://trinket.io/embed/python/14f6824cf1?outputOnly=true&runOption=run&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
