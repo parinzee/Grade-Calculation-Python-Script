@@ -15,10 +15,10 @@ The python script can be modified as you wish to see how it works
 
 ### Features
 
--Accurate Grade Calculations
+- Accurate Grade Calculations
 
 
--You just have to put in the percetage everything else is handled for you
+- You just have to put in the percetage everything else is handled for you
 
 
 - Free!
