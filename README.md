@@ -1,2 +1,7 @@
 # Grade-Calculation-Python-Script
-A grade calculation script for my school
+-A simple python grade calculation script.
+The python script can be modified as you wish to see how it works
+
+Releases are located here:
+
+
