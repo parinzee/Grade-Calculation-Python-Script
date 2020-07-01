@@ -2,7 +2,7 @@ from time import sleep
 print("----------------------------------------------------")
 print("Script Written by Parinthapat Pengpun")
 print("")
-print("-----------Grade Calculator Version: 0.1------------")
+print("-----------Grade Calculator Version: 0.2------------")
 print("                                  ")
 print(
     "If you have an AP course, it is currently unsupported as the number of APs \ncan be different for each person \nI "
@@ -19,7 +19,10 @@ print("Note: Order of subjects you put in doesn't matter, just put all of them."
 print("----------------------------------------------------")
 print(" ")
 print(" ")
-
+print("Loading...")
+print(" ")
+print(" ")
+sleep(5)
 
 def calculation(grade):
     grade = int(grade)
@@ -62,7 +65,7 @@ def calculation(grade):
         calculation.grade = 0
 
 
-core_sub1 = input("Put in your grade of core subject number one. (Don't put the percentage sign.)\nGrade: ")
+core_sub1 = input("Put in your grade of core subject number one. (Don't put the percentage sign.)\nCore #1: ")
 
 calculation(core_sub1)
 
@@ -70,21 +73,21 @@ core_sub1 = calculation.grade
 
 print("----------------------------------------------")
 print("           ")
-core_sub2 = input("Put in your grade of core subject number two. (Don't put the percentage sign.)\nGrade: ")
+core_sub2 = input("Put in your grade of core subject number two. (Don't put the percentage sign.)\nCore #2: ")
 
 calculation(core_sub2)
 
 core_sub2 = calculation.grade
 print("----------------------------------------------")
 print("           ")
-core_sub3 = input("Put in your grade of core subject number three. (Don't put the percentage sign.)\nGrade: ")
+core_sub3 = input("Put in your grade of core subject number three. (Don't put the percentage sign.)\nCore #3: ")
 
 calculation(core_sub3)
 
 core_sub3 = calculation.grade
 print("----------------------------------------------")
 print("           ")
-core_sub4 = input("Put in your grade of core subject number four. (Don't put the percentage sign.)\nGrade: ")
+core_sub4 = input("Put in your grade of core subject number four. (Don't put the percentage sign.)\nCore #4: ")
 
 calculation(core_sub4)
 
@@ -97,7 +100,7 @@ print("Next part are the ELECTIVES.")
 print("           ")
 print("           ")
 
-elect1 = input("Put in your grade of elective subject number one. (Don't put the percentage sign.)\nGrade: ")
+elect1 = input("Put in your grade of elective subject number one. (Don't put the percentage sign.)\nElective #1: ")
 
 calculation(elect1)
 
@@ -105,7 +108,7 @@ elect1 = calculation.grade
 print("----------------------------------------------")
 print("           ")
 
-elect2 = input("Put in your grade of elective subject number two. (Don't put the percentage sign.)\nGrade: ")
+elect2 = input("Put in your grade of elective subject number two. (Don't put the percentage sign.)\nElective #2: ")
 
 calculation(elect2)
 
@@ -113,7 +116,7 @@ elect2 = calculation.grade
 print("----------------------------------------------")
 print("           ")
 
-elect3 = input("Put in your grade of elective subject number three. (Don't put the percentage sign.)\nGrade: ")
+elect3 = input("Put in your grade of elective subject number three. (Don't put the percentage sign.)\nElective #3: ")
 
 calculation(elect3)
 
@@ -121,7 +124,7 @@ elect3 = calculation.grade
 print("----------------------------------------------")
 print("           ")
 
-elect4 = input("Put in your grade of elective subject number four. (Don't put the percentage sign.)\nGrade: ")
+elect4 = input("Put in your grade of elective subject number four. (Don't put the percentage sign.)\nElective #4: ")
 
 calculation(elect4)
 
@@ -129,7 +132,7 @@ elect4 = calculation.grade
 print("----------------------------------------------")
 print("           ")
 
-elect5 = input("Put in your grade of elective subject number five. (Don't put the percentage sign.)\nGrade: ")
+elect5 = input("Put in your grade of elective subject number five. (Don't put the percentage sign.)\nElective #5: ")
 
 calculation(elect5)
 
@@ -137,7 +140,7 @@ elect5 = calculation.grade
 print("----------------------------------------------")
 print("           ")
 
-elect6 = input("Put in your grade of elective subject number six. (Don't put the percentage sign.)\nGrade: ")
+elect6 = input("Put in your grade of elective subject number six. (Don't put the percentage sign.)\nElective #6: ")
 
 calculation(elect6)
 
@@ -159,4 +162,5 @@ print("           ")
 print("           ")
 print("           ")
 print("Script Created by Parinthapat Pengpun")
+print("Hope you have a great day!")
 sleep(1000000)
