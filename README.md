@@ -1,6 +1,6 @@
 
 
-# App Located Here: *http://python-grade-cal.herokuapp.com*
+# App Located Here: *http://exe.io/Grade-Cal*
 
 
 
